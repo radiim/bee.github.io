@@ -10,7 +10,7 @@ All that you'll need to set up locally is a Web Server capable of serving conten
 
 1. Download and install Node (NPM comes pre-packaged with Node distribution): https://nodejs.org/en/download/
 2. Install the http-server module : ```npm install http-server -g```
-3. Download key.pem and cert.pem files from this repository : https://github.com/fitpaycss/fitpaycss.github.io/blob/master/key.pem https://github.com/fitpaycss/fitpaycss.github.io/blob/master/cert.pem
+3. Download key.pem and cert.pem files from this repository : https://raw.githubusercontent.com/fitpaycss/fitpaycss.github.io/master/key.pem https://raw.githubusercontent.com/fitpaycss/fitpaycss.github.io/master/cert.pem
 4. Copy key.pem and cert.pem files to the directory where you'll be working on the CSS file
 5. Start http-server: ```http-server -S```
 6. If everything worked, you should be able to reference your CSS file locally, for example: https://localhost:8080/default-oem.css
