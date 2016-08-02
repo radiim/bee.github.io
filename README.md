@@ -1,5 +1,4 @@
-# fitpaycss.github.io
-Fitpay CSS Whitelabeling Instructions.
+# Fitpay CSS Whitelabeling Instructions.
 
 Fitpay's WebView implementation supports overriding of the built-in CSS by providing a ```themeOverrideCssUrl``` value in the config object passed to the WebView when the WebView is invoked.
 
