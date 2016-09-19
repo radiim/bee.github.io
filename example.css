@@ -1,0 +1,64 @@
+/* Access Wallet Screen */
+.walletAccess-page,
+.walletAccess-title {
+    background: #18264b;
+}
+
+.walletAccess-title {
+    color: #fff;
+}
+
+.pin-status-container,
+.pin-pad-footerLinks a {
+    color: #fff;
+}
+
+.pin-pad {
+    width: 278px;
+    margin: 0 auto;
+}
+
+.pin-pad li {
+    margin-bottom: 15px;
+}
+
+.pin-pad-erase:link {
+    color: #fff;
+}
+
+a.pin-pad-key {
+    border-color: #fff;
+    line-height: 68px;
+    width: 68px;
+    border-radius: 100%;
+    color: #fff;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+/* Secure Wallet Screen */
+.createWallet-page,
+.createWallet-title {
+    background: #18264b;
+}
+
+.createWallet-content,
+.createWallet-title {
+    color: #fff;
+}
+
+.createWallet-desc {
+    color: #fff;
+}
+
+.createWallet-form small {
+    color: #fff;
+}
+
+.createWallet-form label {
+    display: none;
+}
+
+.createWallet-footerLinks a {
+    color: #fff;
+}
