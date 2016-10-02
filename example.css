@@ -66,3 +66,11 @@ a.pin-pad-key {
 #requestPinReset {
     display:none;
 }
+
+#requestLostDevice {
+    display:none;
+}
+
+#container {
+    height: 100vh;
+}
