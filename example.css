@@ -62,3 +62,7 @@ a.pin-pad-key {
 .createWallet-footerLinks a {
     color: #fff;
 }
+
+#requestPinReset {
+    display:none;
+}
