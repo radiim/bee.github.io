@@ -92,3 +92,15 @@ a.pin-pad-key {
 .pin-status-container {
     margin:20px;
 }
+
+a.pin-pad-key {
+    font-size:22px;
+}
+
+a.pin-pad-key:active {
+    border-color: #18264b;
+    background-color:#fff;
+    color: #18264b;
+}
+
+
