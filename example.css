@@ -175,3 +175,7 @@ small {
 .modal-small .modal-dialog-content p {
     margin-top: -7%;
 }
+
+.device-status P {
+    text-align:left;
+}
