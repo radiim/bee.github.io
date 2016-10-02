@@ -163,3 +163,7 @@ small {
 .cardDetail-section-support {
     margin-bottom:30px;
 }
+
+.modal-small .modal-action:before, .modal-small .modal-close:before {
+    position: initial;
+}
