@@ -167,3 +167,11 @@ small {
 .modal-small .modal-action:before, .modal-small .modal-close:before {
     position: initial;
 }
+
+.modal-dialog-content P {
+    text-align:center;
+}
+
+.modal-small .modal-dialog-content p {
+    margin-top: -7%;
+}
