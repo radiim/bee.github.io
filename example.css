@@ -63,6 +63,8 @@ a.pin-pad-key {
     color: #fff;
 }
 
+.
+
 #requestPinReset {
     display:none;
 }
@@ -124,3 +126,25 @@ a.pin-pad-key:active {
 small {
     font-size: 10px;
 }
+
+.addCard-label-expMonth SPAN {
+    display: none;
+}
+
+.addCard-label-expMonth:after {
+    content: "Expiration";
+}
+
+.addCard-label-expYear {
+    display:none;
+}
+
+.addCard-input-expMonth {
+    width: 60%;
+}
+
+.addCard-input-expYear {
+    width: 35%;
+}
+
+
