@@ -74,3 +74,14 @@ a.pin-pad-key {
 #container {
     height: 100vh;
 }
+
+.pin-status {
+    font-size: 30px;
+    line-height: 20px;
+}
+
+.walletAccess-title {
+    color: #fff;
+    margin-bottom: 10px;
+}
+
