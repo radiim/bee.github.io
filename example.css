@@ -85,3 +85,6 @@ a.pin-pad-key {
     margin-bottom: 10px;
 }
 
+.fa-chevron-left:before {
+    content: "\f137";
+}
