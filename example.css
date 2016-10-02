@@ -133,8 +133,8 @@ small {
 
 .addCard-label-expMonth:after {
     content: "Expiration";
+    visibility: visible;
     display: inline-block;
-    margin-left: -30px;
 }
 
 .addCard-label-expYear {
