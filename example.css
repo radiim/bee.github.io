@@ -77,7 +77,7 @@ a.pin-pad-key {
 
 .pin-status {
     font-size: 30px;
-    line-height: 20px;
+    line-height: 27px;
 }
 
 .walletAccess-title {
@@ -87,4 +87,8 @@ a.pin-pad-key {
 
 .fa-chevron-left:before {
     content: "\f137";
+}
+
+.pin-status-container {
+    margin:20px;
 }
