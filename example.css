@@ -108,7 +108,7 @@ a.pin-pad-key:active {
 }
 
 .createWallet-desc:after {
-    content: "Please create a 4 digit PIN to secure your wallet";
+    content: "Please create a 4 digit PIN to secure your wallet against unauthorized use.";
 }
 
 .createWallet-footerLinks a {
@@ -116,3 +116,11 @@ a.pin-pad-key:active {
     font-size: 16px;
 }
 
+.createWallet-form label {
+    display: inline;
+    color: #fff;
+}
+
+small {
+    font-size: 10px;
+}
