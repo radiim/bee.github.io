@@ -165,7 +165,7 @@ a.pin-pad-key {
 
 .walletAccess-title {
     color: #fff;
-    padding-top:2vh;
+    padding-top:3vh;
     margin-bottom: 1vh;
     border:0px;
 }
@@ -177,3 +177,7 @@ a.pin-pad-key {
 .pin-pad li {
     margin-right: 0%;
 }    
+
+.pin-status {
+    margin-top: 1vh;
+}
