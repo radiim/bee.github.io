@@ -99,17 +99,6 @@ small {
     font-size: 10px;
 }
 
-.addCard-label-expMonth {
-    visibility: hidden;
-}
-
-.addCard-label-expMonth:after {
-    content: "Expiration";
-    visibility: visible;
-    display: inline-block;
-    margin-left: -54%;
-}
-
 .addCard-label-expYear {
     display:none;
 }
