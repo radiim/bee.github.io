@@ -63,8 +63,16 @@ a.pin-pad-key {
     display:none;
 }
 
+#signIn {
+    font-size:14px;
+}
+
 .walletAccess-title {
     color: #fff;
+}
+
+.walletAccess-page {
+    height: 100vh;
 }
 
 .fa-chevron-left:before {
@@ -137,4 +145,30 @@ small {
 
 .device-status P {
     text-align:left;
+}
+
+.pin-pad-keys {
+    margin-bottom: 2vh;
+    margin-left: 2vh;
+}
+
+a.pin-pad-key {
+    font-size: 4vh;
+    width: 13vh;
+    height: 13vh;
+    line-height: 13vh;
+}
+
+.pin-pad li:last-child {
+    margin-right: 3vw;
+}
+
+.walletAccess-title {
+    color: #fff;
+    padding-top:2vh;
+    margin-bottom: 1vh;
+}
+
+.fa-chevron-left {
+    margin-left: -25vw;
 }
