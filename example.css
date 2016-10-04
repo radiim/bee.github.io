@@ -25,6 +25,10 @@ a.pin-pad-key {
 }
 
 /* Secure Wallet Screen */
+.createWallet-page {
+    height: 100vh;
+}
+
 .createWallet-page,
 .createWallet-title {
     background: #18264b;
