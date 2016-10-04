@@ -181,3 +181,7 @@ a.pin-pad-key {
 .pin-status {
     margin-top: 1vh;
 }
+
+.rtmStatus {
+    font-size:18px;
+}
