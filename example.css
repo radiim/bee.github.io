@@ -167,8 +167,13 @@ a.pin-pad-key {
     color: #fff;
     padding-top:2vh;
     margin-bottom: 1vh;
+    border:0px;
 }
 
 .fa-chevron-left {
     margin-left: -25vw;
 }
+
+.pin-pad li {
+    margin-right: 0%;
+}    
