@@ -17,12 +17,7 @@
     color: #fff;
 }
 
-a.pin-pad-key {
-    border-color: #fff;
-    border-radius: 100%;
-    color: #fff;
-    font-weight: 300;
-}
+
 
 /* Secure Wallet Screen */
 .createWallet-page {
@@ -157,8 +152,10 @@ a.pin-pad-key {
     width: 13vh;
     height: 13vh;
     line-height: 13vh;
-    font-weight:normal;
+    font-weight:300;
 }
+
+
 
 .pin-pad li:last-child {
     margin-right: 3vw;
