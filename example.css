@@ -25,7 +25,9 @@
     color: #fff;
 }
 
-
+.wallet-cardList TR TD, .wallet-container {
+    text-align: left;
+}
 
 /* Secure Wallet Screen */
 .createWallet-page {
