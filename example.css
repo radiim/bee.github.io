@@ -153,10 +153,11 @@ small {
 }
 
 a.pin-pad-key {
-    font-size: 4vh;
+    font-size: 5vh;
     width: 13vh;
     height: 13vh;
     line-height: 13vh;
+    font-weight:normal;
 }
 
 .pin-pad li:last-child {
