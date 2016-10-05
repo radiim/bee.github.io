@@ -12,6 +12,10 @@
     color: #fff;
 }
 
+.wallet-button-reset {
+    display:none;
+}
+
 .pin-status-container,
 .pin-pad-footerLinks a {
     color: #fff;
@@ -193,6 +197,3 @@ a.pin-pad-key {
     font-size:18px;
 }
 
-.wallet-button-reset {
-    display:none;
-}
