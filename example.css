@@ -8,6 +8,10 @@
     color: #fff;
 }
 
+.walletAccess-errorMsg {
+    color: #fff;
+}
+
 .pin-status-container,
 .pin-pad-footerLinks a {
     color: #fff;
