@@ -12,12 +12,8 @@
     color: #fff;
 }
 
-.footerLinks .wallet-button-reset {
+.footerLinks a.wallet-button-reset {
     display:none;
-}
-
-.wallet-button-reset {
-    color:red;
 }
 
 .pin-status-container,
