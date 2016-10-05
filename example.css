@@ -16,6 +16,10 @@
     display:none
 }
 
+.wallet-button-reset {
+    color:red;
+}
+
 .pin-status-container,
 .pin-pad-footerLinks a {
     color: #fff;
