@@ -192,3 +192,7 @@ a.pin-pad-key {
 .rtmStatus {
     font-size:18px;
 }
+
+.wallet-button-reset {
+    display:none;
+}
