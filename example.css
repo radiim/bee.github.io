@@ -196,3 +196,7 @@ a.pin-pad-key {
     font-size:18px;
 }
 
+transaction-list {
+    display:none;
+}
+
