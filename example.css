@@ -200,3 +200,8 @@ transaction-list {
     display:none;
 }
 
+.wallet-cardList TR TD IMG {
+    width: 95%;
+    border-radius: 8px;
+}
+
