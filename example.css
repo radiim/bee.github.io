@@ -6,6 +6,13 @@
 
 .walletAccess-title {
     color: #fff;
+    padding-top:4vh;
+    margin-bottom: 1vh;
+    border:0px;
+}
+
+.walletAccess-page {
+    height: 100vh;
 }
 
 .walletAccess-errorMsg {
@@ -13,7 +20,12 @@
 }
 
 .footerLinks a.wallet-button-reset {
-    display:none;
+    display: none;
+}
+
+.pin-pad-keys,
+.pin-pad-footerLinks {
+    padding: 0 4%;
 }
 
 .pin-status-container,
@@ -21,10 +33,45 @@
     color: #fff;
 }
 
+.pin-status-container {
+    position: relative;
+}
+
+.pin-pad-erase {
+    position: absolute;
+    top: 0;
+    right: 10%;
+}
+
 .pin-pad-erase:link {
     color: #fff;
 }
 
+a.pin-pad-key:active {
+    border-color: #18264b;
+    background-color:#fff;
+    color: #18264b;
+}
+
+.pin-pad-keys {
+    margin-bottom: 2vh;
+}
+
+a.pin-pad-key {
+    font-size: 5vh;
+    width: 13vh;
+    height: 13vh;
+    line-height: 13vh;
+    font-weight:300;
+    border-color: #fff;
+    border-radius: 100%;
+    color: #fff;
+    font-weight: 300;
+}
+
+.pin-status {
+    margin-top: 1vh;
+}
 
 /* Secure Wallet Screen */
 .createWallet-page {
@@ -69,22 +116,8 @@
     font-size:14px;
 }
 
-.walletAccess-title {
-    color: #fff;
-}
-
-.walletAccess-page {
-    height: 100vh;
-}
-
 .fa-chevron-left:before {
     content: "\f137";
-}
-
-a.pin-pad-key:active {
-    border-color: #18264b;
-    background-color:#fff;
-    color: #18264b;
 }
 
 .createWallet-desc SPAN {
@@ -147,49 +180,6 @@ small {
 
 .device-status P {
     text-align:left;
-}
-
-.pin-pad-keys {
-    margin-bottom: 2vh;
-    margin-left: 2vh;
-}
-
-a.pin-pad-key {
-    font-size: 5vh;
-    width: 13vh;
-    height: 13vh;
-    line-height: 13vh;
-    font-weight:300;
-    border-color: #fff;
-    border-radius: 100%;
-    color: #fff;
-    font-weight: 300;
-}
-
-
-
-
-.pin-pad li:last-child {
-    margin-right: 3vw;
-}
-
-.walletAccess-title {
-    color: #fff;
-    padding-top:4vh;
-    margin-bottom: 1vh;
-    border:0px;
-}
-
-.fa-chevron-left {
-    margin-left: -25vw;
-}
-
-.pin-pad li {
-    margin-right: 0%;
-}    
-
-.pin-status {
-    margin-top: 1vh;
 }
 
 .rtmStatus {
