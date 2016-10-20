@@ -195,6 +195,6 @@ transaction-list {
     border-radius: 8px;
 }
 
-IMG[ng-src = images/email_icon.png] {
+IMG[src="images/email_icon.png"] {
     display:none;
 }
