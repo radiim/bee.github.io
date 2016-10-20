@@ -199,3 +199,6 @@ img[src*="email_icon.png"] {
     display:none;
 }
 
+img[src*="email_icon.png"] + a {
+    display:none;
+}
