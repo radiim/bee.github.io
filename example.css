@@ -202,3 +202,21 @@ img[src*="email_icon.png"] {
 img[src*="email_icon.png"] + a {
     display:none;
 }
+
+img[src*="terms_icon.png"] {
+    display:none;
+}
+
+img[src*="terms_icon.png"] + a {
+    display:none;
+}
+
+img[src*="privacy_icon.png"] {
+    display:none;
+}
+
+img[src*="privacy_icon.png"] + a {
+    display:none;
+}
+
+
