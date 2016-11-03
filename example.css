@@ -220,3 +220,11 @@ img[src*="privacy_icon.png"] + a {
 }
 
 
+h1 {
+    font-size: 36px;
+    line-height: 46px;
+    border-bottom: 5px solid red;
+    margin: 0;
+    background-color: blue;
+}
+
