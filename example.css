@@ -142,6 +142,11 @@ small {
     font-size: 10px;
 }
 
+.addCard-label-cardNickname,
+.addCard-input-cardNickname {
+  display: none;
+}
+
 .addCard-label-expYear {
     display:none;
 }
