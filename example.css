@@ -104,10 +104,6 @@ a.pin-pad-key {
     color: #fff;
 }
 
-#requestPinReset {
-    display:none;
-}
-
 #requestLostDevice {
     display:none;
 }
