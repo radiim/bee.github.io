@@ -143,7 +143,7 @@
     "verifying": "Verifying, please wait...",
     "visit": "Visit",
     "wallet": "Wallet",
-    "wallet_create": "Secure Your Wallet",
+    "wallet_create": "Secure Your Wallet (override)",
     "wallet_create_description": "You must set up a 4 digit PIN to protect your wallet from mischievous rapscallions.",
     "wallet_create_not_allowed": "Create Wallet not Allowed",
     "wallet_create_not_allowed_description": "We're sorry about this, but you must create a wallet from your mobile app with your device attached.",
