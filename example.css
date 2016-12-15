@@ -187,9 +187,6 @@ small {
     font-size:18px;
 }
 
-transaction-list {
-    display:none;
-}
 
 .wallet-cardList TR TD IMG {
     width: 95%;
