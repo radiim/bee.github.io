@@ -31,3 +31,10 @@ a.pin-pad-key {
 body {
   font-family: 'Roboto', sans-serif;
 }
+
+/*custom image*/
+.wallet-image-empty {
+    background: url(https://fitpaycss.github.io/wallet_custom.png) center no-repeat;
+    height: 210px;
+    margin-top: 20%;
+}
