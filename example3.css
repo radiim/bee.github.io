@@ -216,3 +216,7 @@ img[src*="privacy_icon.png"] {
 img[src*="privacy_icon.png"] + a {
     display:none;
 }
+
+transaction-list {
+    display:none;
+}
