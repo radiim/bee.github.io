@@ -221,6 +221,6 @@ transaction-list {
     display:none;
 }
 
-section[ng-if="card.state !== 'DECLINED'"] {
+/*section[ng-if="card.state !== 'DECLINED'"] {
     display:none;
-}
+}*/
