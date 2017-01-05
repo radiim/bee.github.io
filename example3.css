@@ -217,10 +217,3 @@ img[src*="privacy_icon.png"] + a {
     display:none;
 }
 
-transaction-list {
-    display:none;
-}
-
-/*section[ng-if="card.state !== 'DECLINED'"] {
-    display:none;
-}*/
