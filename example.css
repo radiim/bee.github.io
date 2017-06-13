@@ -20,7 +20,7 @@
 }
 
 .footerLinks a.wallet-button-reset {
-    display: none;
+    display: inline;
 }
 
 .pin-pad-keys,
