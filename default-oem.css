@@ -2,7 +2,13 @@
   box-sizing: border-box;
 }
 
-html, input, select, td, label {font-family: roboto, serif; font:21px lato;color:#6B6B6B; font-weight: 300}
+@fontface
+{
+fontfamily: Roboto-Regular;
+src : url(https://radiim.github.io/font/Roboto-Regular.woff);
+}
+
+html, input, select, td, label {font-family: Roboto-Regular, serif; font:21px lato;color:#6B6B6B; font-weight: 300}
 /*section {background-color:#fff}*/
 
 input, select {margin-bottom:10px; padding:10px}
