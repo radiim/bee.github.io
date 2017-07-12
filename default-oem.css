@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-html, input, select, td, label {font:21px lato;color:#6B6B6B; font-weight: 300}
+html, input, select, td, label {font-family: roboto, serif; font:21px lato;color:#6B6B6B; font-weight: 300}
 /*section {background-color:#fff}*/
 
 input, select {margin-bottom:10px; padding:10px}
