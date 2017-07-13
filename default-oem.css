@@ -123,7 +123,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     border-bottom: 1px solid #ccc;
 }
 
-h4 {
+H2 span {
     color: #2096f3;
     font-size: 16px;
 }
