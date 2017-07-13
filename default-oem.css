@@ -118,7 +118,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
 }
 
 /*********** Loader messages ************/
-.header, .sync-message-synchonrization{
+.header .sync-message-synchonrization{
     font-size: 18px;
     border-bottom: 1px solid #ccc;
 }
