@@ -22,7 +22,7 @@ html, input, select, td, label {font-family: Roboto, serif; font:21px Roboto; co
 }
 */
 
-H1 h1{
+H1 {
     background-color: #2096f3;
     color: white;
 }
