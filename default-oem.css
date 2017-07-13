@@ -108,6 +108,19 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     box-shadow: 0 0 5px rgba(81, 203, 238, 1);
     border: 1px solid rgba(81, 203, 238, 1);
 }
+.wallet-image-empty {
+    background: url(https://radiim.github.io/images/empty_wallet.png) center no-repeat;
+    height: 210px;
+    margin-top: 20%;
+}
+.sync-loader{
+    background: url(https://radiim.github.io/images/sync.gif) center no-repeat;
+}
+
+.sync-message-synchonrization{
+    font-size: 18px;
+    border-bottom: 1px solid #2096f3;
+}
 
 #headerInvisible {
     text-align:center;
