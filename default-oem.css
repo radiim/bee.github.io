@@ -60,8 +60,15 @@ label {
     visibility : visible;
 }*/
 
-
-H2 {margin:10px 0px 7px 10px;font-size: 19px;font-weight: 300;}
+/************* Top Bar *******************/
+H2 {
+    text-align: -webkit-center;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin:10px 0px 7px 10px;
+    font-size: 19px;
+    font-weight: 300;
+}
 
 #acceptTerms {border:0px}
 #acceptTerms TR TD LABEL {font-size:16px;}
