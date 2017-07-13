@@ -70,7 +70,17 @@ H2 {
     font-weight: 300;
 }
 
-#acceptTerms {border:0px}
+/*************** Terms and Conditions ************/
+.terms-footer{
+    background: #fff;
+        height: 70px;
+}
+#decline-terms {
+    background: white;
+    color: #2096f3;
+    border: 1px solid;
+}
+#acceptTerms {border:0px; background: #2096f3 }
 #acceptTerms TR TD LABEL {font-size:16px;}
 #acceptTerms TR TD A {color:#2096f3}
 
@@ -123,6 +133,7 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     border-bottom: 1px solid #ccc;
 }
 
+/**********Wallet screen Add card message ****************/
 H2 span {
     color: #2096f3;
     font-size: 16px;
@@ -321,7 +332,7 @@ H2 span {
     bottom:0px;
     height:50px;
     width:100%;
-    background:#999;
+    background:#fff;
 }
 #footer DIV {width: 98%;margin-top: 12px;}
 #footer DIV button {float:right;color:#fff; font-weight: 400; background: none; border:0px; font:bold 18px lato}
