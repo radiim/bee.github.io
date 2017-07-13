@@ -117,9 +117,15 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     background: url(https://radiim.github.io/images/sync.gif) center no-repeat;
 }
 
-.sync-message-synchonrization{
+/*********** Loader messages ************/
+.header, .sync-message-synchonrization{
     font-size: 18px;
-    border-bottom: 1px solid #2096f3;
+    border-bottom: 1px solid #ccc;
+}
+
+h2 span{
+    text-decoration-color: #2096f3;
+    font-size: 16px;
 }
 
 #headerInvisible {
