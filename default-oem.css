@@ -53,19 +53,19 @@ button, .button, .button2 {
 
 label {
     line-height: 30px;
-    display: none;
-    
+/*    display: none;*/
 }
-
+/* Not working
 ::-webkit-input-placeholder{
     visibility : visible;
-}
+}*/
+
 
 H2 {margin:10px 0px 7px 10px;font-size: 19px;font-weight: 300;}
 
 #acceptTerms {border:0px}
 #acceptTerms TR TD LABEL {font-size:16px;}
-#acceptTerms TR TD A {color:#666}
+#acceptTerms TR TD A {color:#2096f3}
 
 .fp-disconnect DIV {background: url(images/disconnect.png) no-repeat center; height:200px}
 .fp-disconnect H2 {text-align: center}
