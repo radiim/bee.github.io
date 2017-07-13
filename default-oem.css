@@ -13,13 +13,29 @@ src : url(https://radiim.github.io/font/Roboto-Regular.woff);
 html, input, select, td, label {font-family: Roboto, serif; font:21px Roboto; color:#777777; font-weight: 300}
 /*section {background-color:#fff}*/
 
+/************* Top Title/Action bar ********/
+title-wrapper{
+    background-color: #2096f3;
+    text-decoration-color: white;
+}
+
 input, select {margin-bottom:10px; padding:10px}
 input {color: #666;border-bottom: 1px solid #E8E8E8;border-radius: 5px; width:96%}
 form div {color:#8A8A8A; margin-bottom: 6px }
 form {background-color: #fcfcfc; padding:15px; border:1px solid #ccc; border-radius: 7px;background-color:#fdfdfd}
 select {-webkit-appearance: none; -moz-appearance: none; appearance: none;padding:7px; background: url(images/arrow.png) no-repeat right 10px center; background-color:#fff; color:#6B6B6B}
-button, .button, .button2 {background-color:#2096f3; border:0px solid #ccc;color:#ccc; cursor: pointer; border-radius: 30px; margin: 10px auto;}
+
+/******** Buttons ********************/
+button, .button, .button2 {
+    background-color:#2096f3; 
+    border:0px solid #ccc;
+    color:#ccc; 
+    cursor: pointer;
+    border-radius: 30px;
+    margin: 10px auto; 
+    text-decoration-color: white}
 /*table {border:1px solid #ccc; border-radius: 7px; background-color: #fdfdfd; width:98%; margin-left: 1%; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; border-bottom: 0px}*/
+
 label {line-height: 30px;}
 H2 {margin:0px 0px 7px 10px;font-size: 28px;font-weight: 300;}
 
