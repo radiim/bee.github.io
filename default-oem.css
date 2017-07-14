@@ -23,7 +23,7 @@ html, input, select, td, label {font-family: Roboto, serif; font:16px Roboto; co
 }
 */
 
-H1 {background-color: #2096f3;  color: white; line-height: 55px; font-family: Roboto; }
+H1 {background-color: #2096f3;  color: white; line-height: 55px; font-family: Roboto; font-weight: 400 }
 
 /************** PIN Pad Screen *********/
 H1.walletAccess-title {
@@ -323,7 +323,7 @@ H2 span {
     height: 32px;
     padding: 5px;
     padding-left: 6px;
-    background: url(https://radiim.github.io/images/ic_add_white_24dp_1x.png) 50% 50% no-repeat;
+    background: url(https://radiim.github.io/images/ic_add_white_24dp_2x.png) 50% 50% no-repeat;
 /*
     background: none;
     background-color: #124080;
@@ -333,7 +333,7 @@ H2 span {
 }
 
 .backButton {
-    background: url(https://radiim.github.io/images/ic_navigate_before_white_24dp_1x.png) 50% 50% no-repeat;
+    background: url(https://radiim.github.io/images/ic_navigate_before_white_24dp_2x.png) 50% 50% no-repeat;
 }
 
 .btn {
