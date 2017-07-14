@@ -24,9 +24,28 @@ html, input, select, td, label {font-family: Roboto, serif; font:16px Roboto; co
 */
 
 H1 {background-color: #2096f3;  color: white; line-height: 55px; font-family: Roboto; }
+
+/************** PIN Pad Screen *********/
 H1.walletAccess-title {
     line-height: 55px;
     font-size: 21px;
+}
+
+a.pin-pad-key {
+    width: 15vh;
+    height: 15vh;
+    line-height: 15vh;
+}
+
+#createAccount, #signIn, #requestPinReset {
+    color: #2096f3;
+    text-decoration: underline;
+}
+
+.pin-status-container {
+    height: 9vh;
+    margin-top: 5px;
+    font-size: 2.9vh;
 }
 
 input, select {
@@ -37,7 +56,7 @@ input, select {
     border-left-width: 0px;
     border-right-width: 0px;}
 
-input {color: #666;border: 0;outline: 0; border-bottom: 1px solid #E8E8E8;border-radius: 5px; width:80%; }
+input {color: #444;border: 0;outline: 0; border-left: 0px; border-right: 0px; border-top: 0px; border-bottom: 1px solid #E8E8E8;border-radius: 5px; width:80%; }
 input:focus {border-bottom: 1px solid #2096f3;}
 
 form div {color:#8A8A8A; margin-bottom: 6px }
