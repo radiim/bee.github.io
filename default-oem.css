@@ -248,6 +248,8 @@ H2 span {
     margin-right: 7px;
 }
 
+
+
 /* Login Style */
 #createAccount,#signIn, #requestPinReset  {display: inline-block; color: #2096f3; text-decoration: underline; font-size: 18px;  cursor:pointer; margin-top: 20px}
 
@@ -259,6 +261,7 @@ H2 span {
 .cheat {margin-right: 20px;}
 .cheat a {font-size:16px; font-weight:300; color: #9C9C9C;text-decoration: none;}
 .loading {text-align:center; width:100%; font-size:18px;}
+
 
 #activationMethods {border:0px;background-color: #fff; border-top:1px solid #ccc;width: 100%;}
 #activationMethods TR TD {border-bottom:1px solid #ccc; height:70px; cursor: pointer; font-size: 18px;padding-left: 10px;}
@@ -320,10 +323,17 @@ H2 span {
     height: 32px;
     padding: 5px;
     padding-left: 6px;
+    background: url(https://radiim.github.io/images/plusnoborder.png) 50% 50% no-repeat;
+/*
     background: none;
     background-color: #124080;
+*/
     color: #fff;
     font: 21px/24px Arial, sans-serif;
+}
+
+.backButton {
+    background: url(https://radiim.github.io/images/backarrow.png) 50% 50% no-repeat;
 }
 
 .btn {
