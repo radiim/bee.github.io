@@ -71,6 +71,10 @@ button, .button, .button2 {
     text-decoration-color: white}
 /*table {border:1px solid #ccc; border-radius: 7px; background-color: #fdfdfd; width:98%; margin-left: 1%; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; border-bottom: 0px}*/
 
+.deleteButton {
+    background: url(https://github.com/radiim/radiim.github.io/blob/master/images/ic_delete_white_24dp_1x.png) 50% 50% no-repeat;
+}
+
 label {
     line-height: 30px;
 /*    display: none;*/
