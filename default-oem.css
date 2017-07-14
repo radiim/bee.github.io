@@ -181,6 +181,11 @@ input[type=text]:focus, input[type=password]:focus, textarea:focus, select:focus
     border-bottom: 1px solid #ccc;
 }
 
+.header{
+    font-size: 18px;
+    border-bottom: 1px solid #ccc;
+}
+
 /**********Wallet screen Add card message ****************/
 H2 span {
     color: #2096f3;
