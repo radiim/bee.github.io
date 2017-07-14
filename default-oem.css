@@ -93,6 +93,18 @@ H2 {
     font-weight: 300;
 }
 
+/************* Add Card Scree *********************/
+.ns-bootstrapper .ns-scan #ns-scan-area #scan-button {
+/*    height: 45px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    float: left;*/
+    background-color: #2096f3;
+    border: 0px solid #ccc;
+    border-radius: 30px;
+}
+
 /*************** Terms and Conditions ************/
 .terms-footer{
     background: #fff;
