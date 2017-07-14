@@ -323,7 +323,7 @@ H2 span {
     height: 32px;
     padding: 5px;
     padding-left: 6px;
-    background: url(https://radiim.github.io/images/ic_add_white_24dp_2x.png) 50% 50% no-repeat;
+    background: url(https://radiim.github.io/images/ic_add_white_24dp_1x.png) 50% 50% no-repeat;
 /*
     background: none;
     background-color: #124080;
@@ -333,7 +333,7 @@ H2 span {
 }
 
 .backButton {
-    background: url(https://radiim.github.io/images/ic_navigate_before_white_24dp_2x.png) 50% 50% no-repeat;
+    background: url(https://radiim.github.io/images/ic_navigate_before_white_24dp_1x.png) 50% 50% no-repeat;
 }
 
 .btn {
