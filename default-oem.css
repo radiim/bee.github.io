@@ -321,6 +321,7 @@ a.wallet-button-reset.ng-binding.ng-scope {
     padding-bottom: 10px;}
 
 #addButton {
+    margin-top: 5px;
     -webkit-appearance: none;
     position: absolute;
     top: 6%;
@@ -342,6 +343,7 @@ a.wallet-button-reset.ng-binding.ng-scope {
 
 .backButton {
     background: url(https://radiim.github.io/images/ic_navigate_before_white_24dp_1x.png) 50% 50% no-repeat;
+    margin-top: 5px;
 }
 
 .btn {
