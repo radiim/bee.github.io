@@ -75,6 +75,7 @@ button, .button, .button2 {
 /*    background: url(https://github.com/radiim/radiim.github.io/blob/master/images/ic_delete_white_24dp_1x.png) 50% 50% no-repeat;*/
     background: url(https://radiim.github.io/images/drawable-hdpi/ic_action_delete.png) 50% 50% no-repeat;
     margin-top: 5px;
+    opacity: .99;
 }
 
 label {
